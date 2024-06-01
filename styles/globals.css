@@ -14,21 +14,6 @@ header, section {
   text-align: center;
 }
 
-.feature, .testimonial, .pricing-plan {
-  margin: 20px auto;
-  max-width: 600px;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-}
-
-button {
-  margin: 10px;
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-}
-
 @media (min-width: 768px) {
   .feature, .testimonial, .pricing-plan {
     display: flex;
